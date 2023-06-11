@@ -27,7 +27,7 @@ body {
 }
 
 .clearfix {
-    *zoom: 1;
+    zoom: 1;
 }
 
 .container_s {
